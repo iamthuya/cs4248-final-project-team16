@@ -12,4 +12,3 @@ Project Infomation
 
 Report Links
 1. Intermediate Report: https://docs.google.com/presentation/d/1nd6sVFZnIvPbg5a-x3Bljr1BJtcXf2fxb-xhRERiBSw/edit?usp=sharing
-2. Final Report: Coming Soon!
